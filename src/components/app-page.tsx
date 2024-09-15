@@ -22,7 +22,7 @@ export function PageComponent() {
         </div>
         <h1 className="text-4xl font-bold mb-4">Bugloper</h1>
         <p className="text-xl text-muted-foreground mb-8">
-          Hello there. I am bugloper, an engineer who loves technologies.
+          I am bugloper, an engineer who loves technologies.
         </p>
         <nav className="mb-8">
           <ul className="flex justify-center space-x-4">
