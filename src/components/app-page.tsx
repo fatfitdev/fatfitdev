@@ -14,7 +14,7 @@ export function PageComponent() {
         <div className="relative w-64 h-64 mx-auto mb-8 transform rotate-6 hover:rotate-0 transition-transform duration-300">
           <Image
             src="/images/my-pic.png"
-            alt="Bugloper"
+            alt="bugloper"
             width={256}
             height={256}
             className="rounded-full shadow-lg object-cover"
